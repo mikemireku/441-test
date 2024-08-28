@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
+    //variables
     int quarters, dimes, nickels;
 
     // Get input from the user
